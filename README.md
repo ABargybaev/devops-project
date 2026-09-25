@@ -11,3 +11,4 @@ This repository contains basic DevOps infrastructure configurations.
 - Kubernetes - deployment and service manifests
 - Prometheus - monitoring configuration
 - GitHub Actions - CI/CD workflow
+Environment: development
